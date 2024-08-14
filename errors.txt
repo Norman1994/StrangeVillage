@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/scripts/game/day_one.rpy", line 41: end of line expected.
+    jump city_street_first with dissolve
+                           ^
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Wed Aug 14 16:28:28 2024

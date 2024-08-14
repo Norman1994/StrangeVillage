@@ -2,7 +2,7 @@
 
     scene prologue_sky
 
-    play music "audio/Music/HorrorMusic.mp3"
+    play music "audio/Music/terrble_music.mp3"
 
     "Когда-то мне приснился сон."
 
